@@ -7,5 +7,4 @@ This sample uses the Folding Layout library developed by [Daniel Olshansky](http
 
 http://www.youtube.com/watch?v=vabSSFCSkSg
 
-
-![Google Analytics](https://ga-beacon.appspot.com/UA-12818683-2/maps-android-folding_map/README.md)
+[![Analytics](https://ga-beacon.appspot.com/UA-12818683-2/maps-android-folding_map/README.md)](https://github.com/saxman/maps-android-folding_map)
