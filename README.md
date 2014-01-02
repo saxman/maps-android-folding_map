@@ -6,3 +6,6 @@ Sample showing how to create a folding map effect in Android using the Google Ma
 This sample uses the Folding Layout library developed by [Daniel Olshansky](https://plus.google.com/+DanielOlshansky), which was presented in the following DevBytes episode.
 
 http://www.youtube.com/watch?v=vabSSFCSkSg
+
+
+![Google Analytics](https://ga-beacon.appspot.com/UA-12818683-2/maps-android-folding_map/README.md)
